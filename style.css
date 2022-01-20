@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  /* background-image: url(img/bgjumbotron0.jpg); */
+  /* background-attachment: fixed; */
+  /* background-size: cover; */
+  /* background-position: 0 -400px; */
+  /* background-image: url(img/bgjumbotron.jpg); */
+}
+
+#Kemampuan {
+  background-color: #0099ff;
+}
+
+#PortofolioProgrammer {
+  background-color: #e2edff;
+}
+
+#PortofolioGame {
+  background-color: #e2edff;
+}
+
+#PortofolioVideo {
+  background-color: #e2edff;
+}
+
+#PortofolioDesign {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
