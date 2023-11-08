@@ -1,0 +1,53 @@
+@media screen and (max-width: 1200px) {
+  #hero p {
+    font-size: 0.9rem;
+  }
+  #hero h1 {
+    font-size: 2.3rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #hero img {
+    width: 50%;
+  }
+  .social-icon {
+    left: 50%;
+    transform: translate(-50%);
+  }
+  #hero .row {
+    padding-bottom: 75px;
+  }
+
+  .btn-custom1 {
+    width: 80%;
+  }
+
+  /* #tentang p {
+    text-align: justify !important;
+  } */
+}
+
+@media screen and (max-width: 576px) {
+  hr {
+    width: 75%;
+  }
+
+  h1 {
+    font-size: 2rem !important;
+  }
+  #kemampuan img {
+    width: 25%;
+  }
+
+  #portofolio h5 {
+    font-size: 1rem;
+  }
+
+  footer p {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+}
